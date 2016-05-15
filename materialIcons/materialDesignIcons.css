@@ -1,0 +1,10 @@
+/*!
+ *  Material Design Iconic Font by Sergey Kupletsky (@zavoloklom) - http://zavoloklom.github.io/material-design-iconic-font/
+ *  License - http://zavoloklom.github.io/material-design-iconic-font/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@font-face {
+  font-family: 'Material-Design-Iconic-Font';
+  src: url('fonts/Material-Design-Iconic-Font.eot') format('embedded-opentype'), url('fonts/Material-Design-Iconic-Font.woff2') format('woff2'), url('fonts/Material-Design-Iconic-Font.woff') format('woff'), url('fonts/Material-Design-Iconic-Font.ttf') format('truetype'), url('fonts/Material-Design-Iconic-Font.svg?v=4.6.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
